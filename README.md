@@ -25,7 +25,7 @@ git clone https://github.com/Srikanth-Reddy-01/wine-quality-prediction.git
 cd wine-quality-prediction
 pip install -r requirements.txt
 or else (Another Method)
-**by downloading the file,open in VS Code before opening the file you should install the VS Code in your PC/Laptop.Then open the files in Vs code ,then click on Terminal (it is located at top of the header in vs code) then type -**streamlit run wine.py(filename)** it will automatically redirect to web browser**.
+**by downloading the file,open in VS Code before opening the file you should install the VS Code in your PC/Laptop.Then open the files in Vs code ,then click on Terminal (it is located at top of the header in vs code) then type streamlit run wine.py  it will automatically redirect to web browser**.
 while enterning the values you should remember the values should be seperated by commas(,) and remove whitespaces.
 ## Model Evaluation
 The model's performance is evaluated using metrics such as:
